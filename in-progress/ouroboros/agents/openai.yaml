@@ -1,0 +1,6 @@
+interface:
+  display_name: "Ouroboros"
+  short_description: "Audit entropy in agent-facing repository docs"
+  default_prompt: "Use $ouroboros to audit this repository for stale agent-facing documentation."
+policy:
+  allow_implicit_invocation: false

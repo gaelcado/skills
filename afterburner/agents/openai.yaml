@@ -1,0 +1,6 @@
+interface:
+  display_name: "Afterburner"
+  short_description: "Pace AI-provider quota before reset"
+  default_prompt: "Use $afterburner to find safely spendable quota surplus for my current task."
+policy:
+  allow_implicit_invocation: false
